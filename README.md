@@ -38,12 +38,5 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OfficialLexthor&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&hide_rank=true&hide_title=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialLexthor&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
-</p>
-
----
-
-<p align="center">
   <sub>Building the digital future, one commit at a time.</sub>
 </p>
