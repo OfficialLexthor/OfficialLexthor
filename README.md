@@ -16,16 +16,11 @@
 
 ---
 
-### Stack
+### Tech Stack
 
-```javascript
-{
-  frontend: ['Next.js', 'TypeScript', 'Tailwind CSS', 'shadcn/ui'],
-  backend: ['Supabase', 'PostgreSQL', 'Node.js'],
-  cms: ['WordPress', 'WooCommerce'],
-  expertise: ['Plugin Development', 'SEO', 'Performance']
-}
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,tailwind,react,postgres,nodejs,wordpress,php&perline=9&theme=dark" />
+</p>
 
 ---
 
