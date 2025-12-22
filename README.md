@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <strong>CEO @ Verdi Data & IT-Drift AS</strong><br/>
+  <strong>CEO @ IT-SENTRALEN AS</strong><br/>
   Full Stack Developer • WordPress Expert • SEO Specialist<br/>
   📍 Sarpsborg, Norway
 </p>
 
 <p align="center">
-  <a href="https://verdidata.no"><img src="https://img.shields.io/badge/-verdidata.no-0d1117?style=flat&logo=firefox&logoColor=58a6ff" /></a>
+  <a href="https://it-sentralen.no"><img src="https://img.shields.io/badge/-IT-SENTRALEN.NO-0d1117?style=flat&logo=firefox&logoColor=58a6ff" /></a>
   <a href="https://www.linkedin.com/in/martin-claus1/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=58a6ff" /></a>
-  <a href="mailto:martin@verdidata.no"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat&logo=gmail&logoColor=58a6ff" /></a>
+  <a href="mailto:martin@it-sentralen.no"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat&logo=gmail&logoColor=58a6ff" /></a>
 </p>
 
 ---
