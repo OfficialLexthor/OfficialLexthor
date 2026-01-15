@@ -1,197 +1,119 @@
-<div align="center">
+<h1 align="center">Martin Clausen</h1>
 
-<!-- Header with typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Martin+Clausen;CEO+%40+IT-SENTRALEN+AS" alt="Martin Clausen" />
+<p align="center">
+<strong>CEO @ IT-SENTRALEN AS</strong> · Fullstack Developer · Norway
+</p>
 
-<br/>
+<p align="center">
+<a href="https://www.linkedin.com/in/martin-claus1/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:martin@it-sentralen.no"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://it-sentralen.no"><img src="https://img.shields.io/badge/-it--sentralen.no-000?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-claus1/)
-[![Email](https://img.shields.io/badge/martin@it--sentralen.no-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin@it-sentralen.no)
-[![Website](https://img.shields.io/badge/it--sentralen.no-000000?style=for-the-badge&logo=safari&logoColor=white)](https://it-sentralen.no)
+---
 
-</div>
+### About
 
-<br/>
+Building scalable IT solutions for Norwegian businesses. Specializing in POS systems, e-commerce integrations, and custom software development.
 
-## About
+**IT-SENTRALEN AS** · Org.nr: 40094084
 
-```typescript
-const martin = {
-    role: "CEO & Fullstack Developer",
-    company: "IT-SENTRALEN AS",
-    location: "Norway",
-    focus: ["POS Systems", "E-commerce", "API Integrations", "WordPress"],
-    currentlyBuilding: "Scalable solutions for Norwegian businesses"
-};
-```
+---
 
-<br/>
+### Languages
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-<div align="center">
+### Frontend
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br/>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br/>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br/>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br/>Dart
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br/>PHP
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br/>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br/>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-<br/>Vue.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br/>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br/>Tailwind
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br/>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-<br/>NestJS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br/>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br/>Supabase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br/>PostgreSQL
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br/>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br/>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-<br/>WordPress
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br/>Vite
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
-</div>
+### Backend
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Medusa](https://img.shields.io/badge/Medusa-7C3AED?style=flat&logo=medusa&logoColor=white)
 
-## Featured Projects
+### Database & BaaS
 
-<div align="center">
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-[![Domeneshop-CLI](https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Domeneshop-CLI&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/OfficialLexthor/Domeneshop-CLI)
-[![Norid-CLI](https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Norid-CLI&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/OfficialLexthor/Norid-CLI)
+### CMS & E-commerce
 
-</div>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
-<br/>
+### DevOps & Tools
 
-## Expertise
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
 
-<div align="center">
+### Expertise
 
-| Domain | Description |
-|:------:|:------------|
-| **POS Systems** | SAF-T compliant solutions with digital signatures for Norwegian regulations |
-| **WooCommerce** | SOAP/REST integrations for real-time sync between POS and e-commerce |
-| **WordPress** | Custom plugins, white-label branding, managed hosting |
-| **SEO** | Technical optimization, local SEO, analytics & reporting |
+![SEO](https://img.shields.io/badge/SEO-47A248?style=flat&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-0769AD?style=flat&logo=soap&logoColor=white)
+![SAF-T](https://img.shields.io/badge/SAF--T-003366?style=flat&logoColor=white)
 
-</div>
+---
 
-<br/>
+### Featured Projects
 
-## GitHub Analytics
+<a href="https://github.com/OfficialLexthor/Domeneshop-CLI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Domeneshop-CLI&theme=dark&hide_border=true&bg_color=0d1117" alt="Domeneshop-CLI" />
+</a>
+<a href="https://github.com/OfficialLexthor/Norid-CLI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Norid-CLI&theme=dark&hide_border=true&bg_color=0d1117" alt="Norid-CLI" />
+</a>
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OfficialLexthor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialLexthor&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+### Specializations
 
-<br/><br/>
+| Area | Description |
+|:-----|:------------|
+| **POS Systems** | SAF-T compliant cash register solutions with digital signatures |
+| **E-commerce** | WooCommerce & Shopify integrations with real-time POS sync |
+| **WordPress** | Custom plugins, white-label solutions, managed hosting |
+| **API Development** | REST & SOAP integrations for business systems |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialLexthor&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+---
 
-<br/><br/>
+### Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OfficialLexthor&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Activity Graph" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OfficialLexthor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialLexthor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=fff&text_color=c9d1d9&langs_count=8" height="165" alt="Languages" />
+</p>
 
-</div>
+---
 
-<br/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=OfficialLexthor&color=58a6ff&style=flat&label=Views" alt="Profile Views"/>
+</p>
 
-## Connect
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  IT-SENTRALEN AS                                             ║
-║  Org.nr: 40094084                                            ║
-╠══════════════════════════════════════════════════════════════╣
-║  Email    →  martin@it-sentralen.no                          ║
-║  Web      →  https://it-sentralen.no                         ║
-║  LinkedIn →  linkedin.com/in/martin-claus1                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=OfficialLexthor&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<sub>Built with passion in Norway</sub>
-
-</div>
+<p align="center">
+<sub>IT-SENTRALEN AS · Org.nr: 40094084 · Norway</sub>
+</p>
