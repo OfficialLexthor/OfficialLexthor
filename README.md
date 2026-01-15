@@ -14,32 +14,18 @@
 
 ## Om meg
 
-Daglig leder og grunnlegger med bred teknisk bakgrunn innen webutvikling, systemintegrasjoner og IT-drift. Driver flere selskaper med fokus på innovative digitale løsninger for norske bedrifter.
+Daglig leder og grunnlegger med bred teknisk bakgrunn innen webutvikling, systemintegrasjoner og IT-drift. Fokus på innovative digitale løsninger for norske bedrifter.
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### IT-SENTRALEN AS
-**CEO & Founder**
+**CEO & Founder** | Org.nr: 40094084
 
-Leverandør av IT-tjenester og digitale løsninger for små og mellomstore bedrifter i Norge.
+Leverandør av IT-tjenester, kassasystemer, WooCommerce-integrasjoner og digitale løsninger for små og mellomstore bedrifter i Norge.
 
 [![Website](https://img.shields.io/badge/it--sentralen.no-Visit-blue?style=flat-square)](https://it-sentralen.no)
 
-</td>
-<td width="50%">
-
-### Verdi Data & IT-Drift AS
-**Org.nr: 40094084**
-
-Spesialist på kassasystemer, WooCommerce-integrasjoner og bedriftssystemer.
-
-[![Website](https://img.shields.io/badge/verdidata.no-Visit-blue?style=flat-square)](https://verdidata.no)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -203,7 +189,6 @@ Teknisk SEO, lokal optimalisering og rapporteringsverktøy.
 | **E-post** | [martin@it-sentralen.no](mailto:martin@it-sentralen.no) |
 | **LinkedIn** | [linkedin.com/in/martin-claus1](https://www.linkedin.com/in/martin-claus1/) |
 | **IT-SENTRALEN AS** | [it-sentralen.no](https://it-sentralen.no) |
-| **Verdi Data** | [verdidata.no](https://verdidata.no) |
 | **Org.nr** | 40094084 |
 
 </div>
