@@ -84,9 +84,6 @@ From domain management tools to SAF-T compliant cash register systems — delive
 
 #### [IT-SENTRALEN AS](https://github.com/IT-SENTRALEN-AS)
 
-<a href="https://github.com/IT-SENTRALEN-AS/it-sentralen-store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-SENTRALEN-AS&repo=it-sentralen-store&theme=github_dark&hide_border=true&bg_color=0d1117" alt="it-sentralen-store" />
-</a>
 <a href="https://github.com/IT-SENTRALEN-AS/tripletex-plugin">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-SENTRALEN-AS&repo=tripletex-plugin&theme=github_dark&hide_border=true&bg_color=0d1117" alt="tripletex-plugin" />
 </a>
