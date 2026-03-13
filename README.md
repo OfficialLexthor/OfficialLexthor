@@ -71,13 +71,24 @@ From domain management tools to SAF-T compliant cash register systems — delive
 
 ---
 
-### Featured Projects
+### Open Source
+
+#### Personal Projects
 
 <a href="https://github.com/OfficialLexthor/Domeneshop-CLI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Domeneshop-CLI&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Domeneshop-CLI" />
 </a>
 <a href="https://github.com/OfficialLexthor/Norid-CLI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialLexthor&repo=Norid-CLI&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Norid-CLI" />
+</a>
+
+#### [IT-SENTRALEN AS](https://github.com/IT-SENTRALEN-AS)
+
+<a href="https://github.com/IT-SENTRALEN-AS/it-sentralen-store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-SENTRALEN-AS&repo=it-sentralen-store&theme=github_dark&hide_border=true&bg_color=0d1117" alt="it-sentralen-store" />
+</a>
+<a href="https://github.com/IT-SENTRALEN-AS/tripletex-plugin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-SENTRALEN-AS&repo=tripletex-plugin&theme=github_dark&hide_border=true&bg_color=0d1117" alt="tripletex-plugin" />
 </a>
 
 ---
@@ -91,19 +102,6 @@ From domain management tools to SAF-T compliant cash register systems — delive
 | **SaaS** | Multi-tenant platforms with Stripe payments and Supabase backend |
 | **Domain Management** | Registrar tools with Norid EPP and Domeneshop API integrations |
 | **API Development** | REST & SOAP integrations for Norwegian business systems |
-
----
-
-### Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OfficialLexthor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff" height="165" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialLexthor&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OfficialLexthor&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 
