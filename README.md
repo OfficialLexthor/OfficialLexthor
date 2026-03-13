@@ -18,7 +18,7 @@
 
 ### About
 
-CEO and solo fullstack developer at **IT-SENTRALEN AS**, building scalable IT solutions for Norwegian businesses. Specializing in POS system integrations, e-commerce platforms, SaaS applications, and custom business software.
+CEO and solo fullstack developer at **[IT-SENTRALEN AS](https://github.com/IT-SENTRALEN-AS)**, building scalable IT solutions for Norwegian businesses. Specializing in POS system integrations, e-commerce platforms, SaaS applications, and custom business software.
 
 From domain management tools to SAF-T compliant cash register systems — delivering end-to-end solutions with modern tech.
 
@@ -112,5 +112,5 @@ From domain management tools to SAF-T compliant cash register systems — delive
 </p>
 
 <p align="center">
-<sub>IT-SENTRALEN AS · Org.nr: 40094084 · Norway</sub>
+<sub><a href="https://github.com/IT-SENTRALEN-AS">IT-SENTRALEN AS</a> · Org.nr: 929005988 · Norway</sub>
 </p>
